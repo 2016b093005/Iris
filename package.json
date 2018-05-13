@@ -9,6 +9,20 @@
   "author": "SAURAV TRIVEDI",
   "license": "ISC",
   "dependencies": {
+    "@slack/client": "^4.2.2",
     "express": "^4.16.3"
-  }
+  },
+  "bin": {
+    "iris": "run.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2016b093005/SlackBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/2016b093005/SlackBot/issues"
+  },
+  "homepage": "https://github.com/2016b093005/SlackBot#readme"
 }
